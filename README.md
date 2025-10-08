@@ -22,7 +22,7 @@ To get a local copy up and running, follow these simple steps:
 
     Clone the repository:
 
-git clone https://github.com/ouarda101/PokemonCardsGenerator
+git clone https://github.com/elhamoudioulaya/PokemonCardsGenerator
 
     Navigate to the project directory:
 
